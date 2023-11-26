@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 requirements = [
-    "pandas>=1.2.4",
+    "pandas>=1.0",
     "numpy>=1.19.4",
     "tensorflow>=2.0.0",
     "logomaker"
